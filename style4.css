@@ -1,0 +1,21 @@
+/* gallery css  */
+
+.gallery
+{
+    width: 100%;
+    padding: 50px 15%;
+    background-color: black;
+}
+
+.gall-img
+{
+    width: 33%;
+    cursor: pointer;
+    transition: .3s;
+    opacity: .5 !important;
+}
+
+.gall-img:hover 
+{
+    opacity: 1 !important;
+}
